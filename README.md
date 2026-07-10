@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Bikash Talukder" width="100%" />
+https://raw.githubusercontent.com/bikash-20/bikash-20/main/assets/profile-banner.png
 
 # Hi, I'm Bikash Talukder
 
