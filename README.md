@@ -39,9 +39,9 @@ Out of 750+ registered teams nationwide, Team **The Bug Busters** (Metropolitan 
 
 
 Built **QueueStorm Investigator** in 4.5 hours: a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish. Featured hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching — deployed as a production FastAPI service with full OpenAPI docs.
-****Finalist — PSTU National Hackathon 2026 (Intelligent Emergency Response Platform)
----
 
+---
+****Finalist — PSTU National Hackathon 2026 (Intelligent Emergency Response Platform)
 ### Tech Stack
 
 **Frontend**
