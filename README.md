@@ -20,7 +20,14 @@
 - Bilingual (Bangla/English/Banglish) NLU and offline-first PWAs
 - Edge computing with Cloudflare Workers, Workers AI, and Vectorize
 - Secure authentication with JWT and Better Auth
+-Production‑grade discipline — 300+ tests, CI/CD, documentation, observability
+-Spring Boot 3 & Spring Security 6 — Hands‑on enterprise development
 
+-Full‑Stack Web Development — React, Next.js, Node.js
+
+-AI & Machine Learning — Ollama, LLM Integration, RAG Systems
+
+-System Design — Distributed Systems, Microservices, Event Sourcing
 ---
 
 ### Achievements
@@ -28,8 +35,11 @@
 **2nd Place — bKash presents SUST CSE Carnival 2026: Codex Community Hackathon (Preliminary Round)**
 Out of 750+ registered teams nationwide, Team **The Bug Busters** (Metropolitan University) secured 2nd position and a spot in the **Top 50 Main Arena** — competing for a 22 Lac+ BDT prize pool.
 
-Built **QueueStorm Investigator** in 4.5 hours: a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish. Featured hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching — deployed as a production FastAPI service with full OpenAPI docs.
 
+
+
+Built **QueueStorm Investigator** in 4.5 hours: a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish. Featured hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching — deployed as a production FastAPI service with full OpenAPI docs.
+****Finalist — PSTU National Hackathon 2026 (Intelligent Emergency Response Platform)
 ---
 
 ### Tech Stack
