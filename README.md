@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/bikash-20/bikash-20/main/assets/profile-banner.png" alt="Bikash Talukder" width="100%" />
 
+<img src="assets/profile-photo.jpg" alt="Bikash Talukder" width="150" style="border-radius:50%;margin-top:16px;" />
+
 # Hi, I'm Bikash Talukder
 
 ### Open Source Enthusiast | Lifelong Learner | Building AI-powered systems that ship
@@ -13,6 +15,13 @@
 
 ---
 
+### Experience
+
+**Java Development Intern — Codveda Technologies** *(Aug 2026 – Present)*
+Contributing to Java-based software projects covering development, testing, and maintenance, with a focus on production-quality standards.
+
+---
+
 ### Currently Focused On
 
 - Building production-grade AI microservices (hybrid rule-based + LLM architectures)
@@ -20,28 +29,27 @@
 - Bilingual (Bangla/English/Banglish) NLU and offline-first PWAs
 - Edge computing with Cloudflare Workers, Workers AI, and Vectorize
 - Secure authentication with JWT and Better Auth
--Production‑grade discipline — 300+ tests, CI/CD, documentation, observability
--Spring Boot 3 & Spring Security 6 — Hands‑on enterprise development
+- Production-grade discipline — 300+ tests, CI/CD, documentation, observability
+- Spring Boot 3 & Spring Security 6 — hands-on enterprise development
+- Full-Stack Web Development — React, Next.js, Node.js
+- AI & Machine Learning — Ollama, LLM Integration, RAG Systems
+- System Design — Distributed Systems, Microservices, Event Sourcing
 
--Full‑Stack Web Development — React, Next.js, Node.js
-
--AI & Machine Learning — Ollama, LLM Integration, RAG Systems
-
--System Design — Distributed Systems, Microservices, Event Sourcing
 ---
 
 ### Achievements
 
-**2nd Place — bKash presents SUST CSE Carnival 2026: Codex Community Hackathon (Preliminary Round)**
-Out of 750+ registered teams nationwide, Team **The Bug Busters** (Metropolitan University) secured 2nd position and a spot in the **Top 50 Main Arena** — competing for a 22 Lac+ BDT prize pool.
+**2nd Place (Preliminary Round) — bKash presents SUST CSE Carnival 2026: Codex Community Hackathon**
+Out of 750+ registered teams nationwide, Team **The Bug Busters** (Metropolitan University) secured 2nd position and a spot in the **Top 50 Main Arena**, competing for a 22 Lac+ BDT prize pool. Built **QueueStorm Investigator** in 4.5 hours — a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish, with a hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching, deployed as a production FastAPI service with full OpenAPI docs.
 
+**Final Round — bKash presents SUST CSE Carnival 2026: Codex Community Hackathon**
+Advanced to the final round with **LiquiGuard / iquiGuard** — an enterprise-grade, multi-provider liquidity command center featuring real-time 12-minute rolling EWMA forecasting, anomaly detection, and an indexed 60-day PostgreSQL historical analytics layer with live transactional SSE streaming.
 
-
-
-Built **QueueStorm Investigator** in 4.5 hours: a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish. Featured hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching — deployed as a production FastAPI service with full OpenAPI docs.
+**Finalist — PSTU National Hackathon 2026**
+Built **PSTU Wallet**, a multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket) — the project that later evolved into WalletSync.
 
 ---
-****Finalist — PSTU National Hackathon 2026 (Intelligent Emergency Response Platform)
+
 ### Tech Stack
 
 **Frontend**
@@ -109,6 +117,20 @@ Next-gen intelligent learning platform with an IDE-grade editor, side-by-side LL
 </td>
 <td width="50%">
 
+**LiquiGuard / iquiGuard**
+Enterprise-grade, multi-provider liquidity command center built for the SUST CSE Carnival 2026 final round. Features real-time 12-minute rolling EWMA forecasting, anomaly detection, and an indexed 60-day PostgreSQL historical analytics layer with live transactional SSE streaming.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**PSTU Wallet (→ WalletSync)**
+Multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket) built as a finalist project for the PSTU National Hackathon 2026, since evolved into WalletSync — a persona-aware fee calculator, festival spending forecaster, and spending-insights dashboard with full Bangla localization.
+
+</td>
+<td width="50%">
+
 **[Rentify — AI Car Rental System](https://web-production-377eb.up.railway.app/)**
 Java 17 + Spring Boot 3 car rental platform with a live, data-grounded AI assistant. Context-injection architecture queries the database in real time so answers reflect actual fleet, pricing, and revenue — zero hallucinated numbers.
 
@@ -124,7 +146,7 @@ Offline-capable, bilingual (Bangla/English) PWA for rural community health worke
 <td width="50%">
 
 **[QueueStorm Investigator](https://final-mock-test-sust-hackathon.onrender.com/)**
-Safety-first, deterministic AI microservice built for the bKash SUST Hackathon. Parses free-form customer complaints (English/Bengali/Banglish) into structured triage data using a hybrid rule + LLM architecture, with prompt-injection and phishing guardrails.
+Safety-first, deterministic AI microservice built for the bKash SUST Hackathon preliminary round. Parses free-form customer complaints (English/Bengali/Banglish) into structured triage data using a hybrid rule + LLM architecture, with prompt-injection and phishing guardrails.
 
 </td>
 </tr>
@@ -137,8 +159,22 @@ Authless, zero-signup AI chat assistant and voice playground. Monorepo with a Fa
 </td>
 <td width="50%">
 
-**[Nexora — Your AI Companion](https://old-ai-code.vercel.app/)**
-An AI companion web app focused on conversational experience and responsive design.
+**JARVIS-MK1**
+Cascading multi-model voice assistant with OpenRouter/Gemini/Grok/Ollama routing and a TTS pipeline.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Nocta**
+Glassmorphic, single-HTML-file local Ollama chat interface, developed into an MIT-licensed open-source project with a full voice pipeline.
+
+</td>
+<td width="50%">
+
+**OpenHospital RMS**
+Hospital resource and patient workflow management system, built with a Supabase (Postgres) backend, Spring Boot API, and a Vite frontend.
 
 </td>
 </tr>
