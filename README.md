@@ -43,10 +43,10 @@ Contributing to Java-based software projects covering development, testing, and 
 Out of 750+ registered teams nationwide, Team **The Bug Busters** (Metropolitan University) secured 2nd position and a spot in the **Top 50 Main Arena**, competing for a 22 Lac+ BDT prize pool. Built **QueueStorm Investigator** in 4.5 hours — a safety-first, deterministic AI microservice for bKash that classifies and triages customer complaints written in Bengali, English, and Banglish, with a hybrid rule-based + LLM architecture, prompt-injection and phishing guardrails, evidence matching, structured logging, and idempotency caching, deployed as a production FastAPI service with full OpenAPI docs.
 
 **Final Round — bKash presents SUST CSE Carnival 2026: Codex Community Hackathon**
-Advanced to the final round with **LiquiGuard / iquiGuard** — an enterprise-grade, multi-provider liquidity command center featuring real-time 12-minute rolling EWMA forecasting, anomaly detection, and an indexed 60-day PostgreSQL historical analytics layer with live transactional SSE streaming.
+Advanced to the final round with **LiquiGuard / iquiGuard** — an enterprise-grade, multi-provider liquidity command center featuring real-time 12-minute rolling EWMA forecasting, anomaly detection, and an indexed 60-day PostgreSQL historical analytics layer with live transactional SSE streaming. This project later evolved into **WalletSync**.
 
 **Finalist — PSTU National Hackathon 2026**
-Built **PSTU Wallet**, a multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket) — the project that later evolved into WalletSync.
+Built **PSTU Wallet**, a multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket).
 
 ---
 
@@ -125,8 +125,11 @@ Enterprise-grade, multi-provider liquidity command center built for the SUST CSE
 <tr>
 <td width="50%">
 
-**PSTU Wallet (→ WalletSync)**
-Multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket) built as a finalist project for the PSTU National Hackathon 2026, since evolved into WalletSync — a persona-aware fee calculator, festival spending forecaster, and spending-insights dashboard with full Bangla localization.
+**PSTU Wallet**
+Multi-provider mobile money movement and balance-tracking system (bKash, Nagad, Rocket) built as a finalist project for the PSTU National Hackathon 2026.
+
+**WalletSync**
+Consumer-facing multi-provider mobile money balance viewer, evolved out of the LiquiGuard/iquiGuard SUST project — now has a persona-aware fee calculator, festival spending forecaster, and spending-insights dashboard with full Bangla localization.
 
 </td>
 <td width="50%">
