@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bikash-20/bikash-20/main/assets/profile-banner.png" alt="Bikash Talukder" width="100%" />
-
 # Hi, I'm Bikash Talukder
 
 ### Building AI-powered systems that ship
