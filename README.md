@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/bikash-20/bikash-20/main/assets/profile-banner.png" alt="Bikash Talukder" width="100%" />
 
-<img src="https://raw.githubusercontent.com/bikash-20/bikash-20/main/assets/profile-photo.jpg" alt="Bikash Talukder" width="150" />
-
 # Hi, I'm Bikash Talukder
 
 ### Building AI-powered systems that ship
