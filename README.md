@@ -17,6 +17,7 @@ Full-stack and AI engineer · Hackathon finalist · Java intern · Bangla / Engl
 ---
 
 ## Achievements
+- internationally top 100 in Google Cloud AI builder Cup 2026
 
 - 🥈 **2nd Place, Preliminary Round: bKash presents SUST CSE Carnival 2026 (Codex Community Hackathon).** Top 50 of 750+ teams nationwide. Built [**QueueStorm Investigator**](https://final-mock-test-sust-hackathon.onrender.com/) in 4.5 hours with Team *The Bug Busters* (Metropolitan University).
 - 🏁 **Finalist: SUST CSE Carnival 2026 Final Round.** Built **LiquiGuard**, a multi-provider liquidity command center with real-time forecasting and anomaly detection. It later evolved into **WalletSync**.
